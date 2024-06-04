@@ -60,6 +60,10 @@ android {
         }
     }
 }
+defaultConfig {
+    manifestPlaceholders = [mapsApiKey: "$System.env.MAPS_API_KEY"]
+}
+
 
 flutter {
     source '../..'

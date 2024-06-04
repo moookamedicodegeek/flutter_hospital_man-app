@@ -16,7 +16,7 @@ void main() async {
     options: const FirebaseOptions(
       appId:
           '1:1039325544402:web:1:1039325544402:android:e360a2808895a5e23f120b',
-      apiKey: 'AIzaSyCepYRizmyYZJv-MhI07JUWNejumjL409s',
+      apiKey: '',
       projectId: 'hospitalmanagement-app-5116f',
       messagingSenderId: '1039325544402',
       authDomain: 'hospitalmanagement-app-5116f.firebaseapp.com',
