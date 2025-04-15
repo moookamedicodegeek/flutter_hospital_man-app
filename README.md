@@ -3,7 +3,7 @@
 This is a Hospital Management Mobile Application built using Flutter, Dart, and Firebase. The app is designed to streamline interactions between patients and hospital systems, enabling smooth appointment handling and admin oversight — all from a modern, mobile-first interface.
 
 🚀 Features
-🔐 Authentication
+🔐 Authentication 
 Secure login and registration with Firebase Authentication
 
 📅 Appointment Management
